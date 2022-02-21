@@ -1,4 +1,9 @@
 hjdohdsaf
 tmr
+<<<<<<< HEAD
 astf
 no i can
+=======
+fast
+yes we can
+>>>>>>> feature
