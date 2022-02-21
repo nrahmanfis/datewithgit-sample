@@ -1,9 +1,3 @@
 hjdohdsaf
-tmr
-<<<<<<< HEAD
-astf
-no i can
-=======
-fast
-yes we can
->>>>>>> feature
+
+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 personaltoken
